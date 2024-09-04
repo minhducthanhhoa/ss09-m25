@@ -6,7 +6,6 @@ export default function Bai1() {
     <div>Bài 1
         <Button variant={'destructive'}>Destructive</Button>
         <Button variant={'default'}>Primary</Button>
-        <Button variant={'secondary'}>Secondary</Button>
     </div>
   )
 }
